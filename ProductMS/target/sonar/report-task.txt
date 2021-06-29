@@ -1,0 +1,7 @@
+organization=venkatlvs
+projectKey=com.management:Product-Kar
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8580
+dashboardUrl=https://sonarcloud.io/dashboard?id=com.management%3AProduct-Kar
+ceTaskId=AXKfC2VGunPgI1qZDEnD
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKfC2VGunPgI1qZDEnD
